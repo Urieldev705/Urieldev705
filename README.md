@@ -34,8 +34,8 @@
 ### My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urieldev705&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Urieldev705's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urieldev705&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urieldev705&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;v=1" alt="Urieldev705's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urieldev705&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=1" alt="Top Languages" />
 </div>
 
 <br/>
